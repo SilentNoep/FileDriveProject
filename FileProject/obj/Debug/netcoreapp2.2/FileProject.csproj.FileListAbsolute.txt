@@ -1,0 +1,17 @@
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\bin\Debug\netcoreapp2.2\FileProject.deps.json
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\bin\Debug\netcoreapp2.2\FileProject.runtimeconfig.json
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\bin\Debug\netcoreapp2.2\FileProject.runtimeconfig.dev.json
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\bin\Debug\netcoreapp2.2\FileProject.dll
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\bin\Debug\netcoreapp2.2\FileProject.pdb
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\obj\Debug\netcoreapp2.2\FileProject.csprojAssemblyReference.cache
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\obj\Debug\netcoreapp2.2\FileProject.csproj.CoreCompileInputs.cache
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\obj\Debug\netcoreapp2.2\FileProject.RazorAssemblyInfo.cache
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\obj\Debug\netcoreapp2.2\FileProject.RazorAssemblyInfo.cs
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\obj\Debug\netcoreapp2.2\FileProject.AssemblyInfoInputs.cache
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\obj\Debug\netcoreapp2.2\FileProject.AssemblyInfo.cs
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\obj\Debug\netcoreapp2.2\FileProject.RazorTargetAssemblyInfo.cache
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\obj\Debug\netcoreapp2.2\FileProject.csproj.CopyComplete
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\obj\Debug\netcoreapp2.2\FileProject.dll
+C:\Users\Meny Lasry\source\repos\FileProject\FileProject\obj\Debug\netcoreapp2.2\FileProject.pdb

@@ -1,0 +1,1 @@
+C:\Users\Meny Lasry\source\repos\FileProject\Client\Client.csproj;x86
